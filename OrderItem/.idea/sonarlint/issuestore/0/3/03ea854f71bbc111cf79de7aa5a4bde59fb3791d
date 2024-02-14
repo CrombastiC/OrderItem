@@ -1,0 +1,14 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(³Ì›®ûÿÿÿÿ8ùòŠ­¶1
+L	java:S106"+Replace this use of System.out by a logger.(¤­Óäûÿÿÿÿ8íˆğ¬¶1
+G	java:S106"+Replace this use of System.out by a logger.(ä—æ 8îˆğ¬¶1
+G	java:S106"+Replace this use of System.out by a logger.(È’“§8îˆğ¬¶1
+L	java:S106"+Replace this use of System.out by a logger.(£ó˜ıÿÿÿÿ8ôˆğ¬¶1
+>	java:S131"""Add a default case to this switch.(¨ÕÉ8÷ˆğ¬¶1
+L	java:S106&"+Replace this use of System.out by a logger.(ğøÕ€ÿÿÿÿÿ8øˆğ¬¶1
+L	java:S106)"+Replace this use of System.out by a logger.(ó®‡úÿÿÿÿ8øˆğ¬¶1
+L	java:S106+"+Replace this use of System.out by a logger.(ñ´ÅÒûÿÿÿÿ8ùˆğ¬¶1
+X	java:S1258"<This block of commented-out lines of code should be removed.( ¶ş8úˆğ¬¶1
+L	java:S106B"+Replace this use of System.out by a logger.(¸“ò•şÿÿÿÿ8şˆğ¬¶1
+]	java:S125C"<This block of commented-out lines of code should be removed.(é–Ó»øÿÿÿÿ8şˆğ¬¶1

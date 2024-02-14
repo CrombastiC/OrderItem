@@ -1,0 +1,5 @@
+
+m	java:S116"QRename this field "UserID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úžàÄ8·‚¡Òµ1
+o	java:S116"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È”¸„8·‚¡Òµ1
+t	java:S116"SRename this field "PassWord" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ûœ’üÿÿÿÿ8¸‚¡Òµ1
+n	java:S116"RRename this field "IsAdmin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝÂÆš8¸‚¡Òµ1
